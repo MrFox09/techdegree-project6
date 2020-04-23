@@ -1,0 +1,67 @@
+{"projects": 
+    [
+      {  
+        "project1":{
+            "id":"Name",
+            "project_name":"name",
+            "description": "description",
+            "technologies": ["string1","string2"],
+            "live_link":"url for live version",
+            "github_link": "link to Github Repo",
+            "image_urls": ["array of strings containing file paths"]
+        }
+      },
+
+      {  
+        "project2":{
+            "id":"Name",
+            "project_name":"name",
+            "description": "description",
+            "technologies": ["string1","string2"],
+            "live_link":"url for live version",
+            "github_link": "link to Github Repo",
+            "image_urls": ["array of strings containing file paths"]
+        }
+      },
+
+      {  
+        "project3":{
+            "id":"Name",
+            "project_name":"name",
+            "description": "description",
+            "technologies": ["string1","string2"],
+            "live_link":"url for live version",
+            "github_link": "link to Github Repo",
+            "image_urls": ["array of strings containing file paths"]
+        }
+      },
+
+      {  
+        "project4":{
+            "id":"Name",
+            "project_name":"name",
+            "description": "description",
+            "technologies": ["string1","string2"],
+            "live_link":"url for live version",
+            "github_link": "link to Github Repo",
+            "image_urls": ["array of strings containing file paths"]
+        }
+      },
+
+      {  
+        "project5":{
+            "id":"Name",
+            "project_name":"name",
+            "description": "description",
+            "technologies": ["string1","string2"],
+            "live_link":"url for live version",
+            "github_link": "link to Github Repo",
+            "image_urls": ["array of strings containing file paths"]
+        }
+      }
+    ]
+
+
+
+
+}
