@@ -1,67 +1,64 @@
-{"projects": 
-    [
-      {  
-        "project1":{
-            "id":"Name",
-            "project_name":"name",
-            "description": "description",
-            "technologies": ["string1","string2"],
-            "live_link":"url for live version",
-            "github_link": "link to Github Repo",
-            "image_urls": ["array of strings containing file paths"]
-        }
-      },
+{
+  "projects": 
+  [
+    {
 
-      {  
-        "project2":{
-            "id":"Name",
-            "project_name":"name",
-            "description": "description",
-            "technologies": ["string1","string2"],
-            "live_link":"url for live version",
-            "github_link": "link to Github Repo",
-            "image_urls": ["array of strings containing file paths"]
-        }
-      },
+      "id": 0,
+      "project_name": "A Random Quote Generator",
+      "description": "A Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button or when a timer end. Also change colors everytime a quote is generated.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mrfox09.github.io/techdegree-project1/",
+      "github_link": "https://github.com/MrFox09/techdegree-project1",
+      "image_urls": ["public/images/Random_Quotes_landing_550px.jpg", "public/images/Random_Quotes_1200x550px-.jpg", "public/images/Random_Quotes-1200x500px.jpg"]
 
-      {  
-        "project3":{
-            "id":"Name",
-            "project_name":"name",
-            "description": "description",
-            "technologies": ["string1","string2"],
-            "live_link":"url for live version",
-            "github_link": "link to Github Repo",
-            "image_urls": ["array of strings containing file paths"]
-        }
-      },
+    },
 
-      {  
-        "project4":{
-            "id":"Name",
-            "project_name":"name",
-            "description": "description",
-            "technologies": ["string1","string2"],
-            "live_link":"url for live version",
-            "github_link": "link to Github Repo",
-            "image_urls": ["array of strings containing file paths"]
-        }
-      },
+    {
 
-      {  
-        "project5":{
-            "id":"Name",
-            "project_name":"name",
-            "description": "description",
-            "technologies": ["string1","string2"],
-            "live_link":"url for live version",
-            "github_link": "link to Github Repo",
-            "image_urls": ["array of strings containing file paths"]
-        }
-      }
-    ]
+      "id": 1,
+      "project_name": "Pagination and Filtering",
+      "description": "Filter through a web page, to make a list of movies or students etc. (with more than 10 entries), better readable, showing just 10 of all users and add navigation links dynamicaly to the bottom",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mrfox09.github.io/techdegree-project2/",
+      "github_link": "https://github.com/MrFox09/techdegree-project2",
+      "image_urls": ["public/images/Students_landing_550x350px.jpg","public/images/Students_1200x350px.jpg","public/images/Students_1200x350px_2.jpg","public/images/Students_1200x350px_3.jpg"]
 
+    },
 
+    {
 
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "Used JavaScript to enhance an interactive registration form for a fictional conference called \"FullStack Conf\". Added customized and conditional behavior and interactivity like show colors only when a design is selected, logic to prevent course collison at the same time, choose between different pay methods, validating user input and providing helpful error messages in real time." ,
+      "technologies": ["HTML", "CSS", "JavaScript","jQuery"],
+      "live_link": "https://mrfox09.github.io/techdegree-project3/",
+      "github_link": "https://github.com/MrFox09/techdegree-project3",
+      "image_urls": ["public/images/Register_landing.jpg","public/images/Register_1250x550px.jpg","public/images/Register_1250x550px2.jpg","public/images/Register_1250x550px3.jpg"]
 
+    },
+
+    {
+
+      "id": 3,
+      "project_name": "Object-Oriented Game Show App - Phrase Hunter",
+      "description": "A word or phrase guessing game based on the Wheel of Fortune Game Show",
+      "technologies": ["HTML", "CSS", "JavaScript","Object-Oriented Programming"],
+      "live_link": " https://mrfox09.github.io/techdegree-project4/",
+      "github_link": "https://github.com/MrFox09/techdegree-project4",
+      "image_urls": ["public/images/PhraseHunter_landing.jpg","public/images/PhraseHunter_1250x550px1.jpg","public/images/PhraseHunter_1250x550px2.jpg","public/images/PhraseHunter_1250x550px3.jpg"]
+
+    },
+
+    {
+
+      "id": 4,
+      "project_name": "Public API Request",
+      "description": "Request a JSON Object from an API Server to grab 12 random \"employees\", and use that data to build a prototype for an employee directory.",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://mrfox09.github.io/techdegree-project5/",
+      "github_link": "https://github.com/MrFox09/techdegree-project5/",
+      "image_urls": ["public/images/Public_landing.jpg","public/images/Public_1250x550px1.jpg","public/images/Public_1250x550px2.jpg","public/images/Public_1250x550px3.jpg"]
+
+    }
+  ]
 }
