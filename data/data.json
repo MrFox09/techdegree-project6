@@ -9,7 +9,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://mrfox09.github.io/techdegree-project1/",
       "github_link": "https://github.com/MrFox09/techdegree-project1",
-      "image_urls": ["public/images/Random_Quotes_landing_550px.jpg", "public/images/Random_Quotes_1200x550px-.jpg", "public/images/Random_Quotes-1200x500px.jpg"]
+      "image_urls": ["/static/images/Random_Quotes_landing_550px.jpg", "/static/images/Random_Quotes_1200x550px-.jpg", "/static/images/Random_Quotes-1200x500px.jpg"]
 
     },
 
@@ -17,11 +17,11 @@
 
       "id": 1,
       "project_name": "Pagination and Filtering",
-      "description": "Filter through a web page, to make a list of movies or students etc. (with more than 10 entries), better readable, showing just 10 of all users and add navigation links dynamicaly to the bottom",
+      "description": "Filter through a web page, to make a list of movies or students etc. (with more than 10 entries), better readable, showing just 10 of all users and add navigation links dynamicaly to the bottom. As an extra, it includes a search function.",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://mrfox09.github.io/techdegree-project2/",
       "github_link": "https://github.com/MrFox09/techdegree-project2",
-      "image_urls": ["public/images/Students_landing_550x350px.jpg","public/images/Students_1200x350px.jpg","public/images/Students_1200x350px_2.jpg","public/images/Students_1200x350px_3.jpg"]
+      "image_urls": ["/static/images/Students_landing_550px.jpg","/static/images/Students_1200x350px.jpg","/static/images/Students_1200x350px_2.jpg","/static/images/Students_1200x350px_3.jpg"]
 
     },
 
@@ -33,7 +33,7 @@
       "technologies": ["HTML", "CSS", "JavaScript","jQuery"],
       "live_link": "https://mrfox09.github.io/techdegree-project3/",
       "github_link": "https://github.com/MrFox09/techdegree-project3",
-      "image_urls": ["public/images/Register_landing.jpg","public/images/Register_1250x550px.jpg","public/images/Register_1250x550px2.jpg","public/images/Register_1250x550px3.jpg"]
+      "image_urls": ["/static/images/Register_landing.jpg","/static/images/Register_1250x550px.jpg","/static/images/Register_1250x550px2.jpg","/static/images/Register_1250x550px3.jpg"]
 
     },
 
@@ -45,7 +45,7 @@
       "technologies": ["HTML", "CSS", "JavaScript","Object-Oriented Programming"],
       "live_link": " https://mrfox09.github.io/techdegree-project4/",
       "github_link": "https://github.com/MrFox09/techdegree-project4",
-      "image_urls": ["public/images/PhraseHunter_landing.jpg","public/images/PhraseHunter_1250x550px1.jpg","public/images/PhraseHunter_1250x550px2.jpg","public/images/PhraseHunter_1250x550px3.jpg"]
+      "image_urls": ["/static/images/PhraseHunter_landing.jpg","/static/images/PhraseHunter_1250x550px1.jpg","/static/images/PhraseHunter_1250x550px2.jpg","/static/images/PhraseHunter_1250x550px3.jpg"]
 
     },
 
@@ -57,7 +57,7 @@
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://mrfox09.github.io/techdegree-project5/",
       "github_link": "https://github.com/MrFox09/techdegree-project5/",
-      "image_urls": ["public/images/Public_landing.jpg","public/images/Public_1250x550px1.jpg","public/images/Public_1250x550px2.jpg","public/images/Public_1250x550px3.jpg"]
+      "image_urls": ["/static/images/Public_landing.jpg","/static/images/Public_1250x550px1.jpg","/static/images/Public_1250x550px2.jpg","/static/images/Public_1250x550px3.jpg"]
 
     }
   ]
