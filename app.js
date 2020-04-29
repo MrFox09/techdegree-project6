@@ -53,7 +53,7 @@ let port = process.env.PORT || 3000;
 
 app.listen(port, () =>{
 
-    console.log('It works on localhost 3000');
+    console.log(`It works on localhost ${port}`);
 
 
 });
