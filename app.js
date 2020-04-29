@@ -48,9 +48,10 @@ app.use((req, res, next) =>{
 
 
 
-// set up a server which is listening on localhost:3000
+// set up a server which is listening on localhost:3000 or on what port it will be given
+let port = process.env.PORT || 3000;
 
-app.listen(3000, () =>{
+app.listen(port, () =>{
 
     console.log('It works on localhost 3000');
 
