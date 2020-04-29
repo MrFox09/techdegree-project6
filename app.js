@@ -1,12 +1,18 @@
 /*jshint esversion: 6 */
 
+// set up express
+
 const express = require('express');
 const app = express();
 
+// set the view engine to pub
 
 app.set('view engine', 'pug');
 
+// make the public folder accessible on the /static route
 app.use('/static',express.static('public'));
+
+//require every module
 
 const mainRoute = require('./routes');
 const aboutRoute = require('./routes/about');
@@ -42,6 +48,7 @@ app.use((req, res, next) =>{
 
 
 
+// set up a server which is listening on localhost:3000
 
 app.listen(3000, () =>{
 
