@@ -5,7 +5,7 @@
 
       "id": 0,
       "project_name": "A Random Quote Generator",
-      "description": "A Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button or when a timer end. Also change colors everytime a quote is generated.",
+      "description": "A Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button or when a timer ends. Also changes colors everytime a quote is generated.",
       "technologies": ["HTML", "CSS", "JavaScript"],
       "live_link": "https://mrfox09.github.io/techdegree-project1/",
       "github_link": "https://github.com/MrFox09/techdegree-project1",

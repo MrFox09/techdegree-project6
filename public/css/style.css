@@ -16,6 +16,7 @@ h1,h2,h3,h4,h5,p{
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
     font-weight: 600;
+    color:#090909;
   }
 
   p{
@@ -153,7 +154,7 @@ a:hover{
 body {
 
   background: #38546c;
-  color: #090909;
+  color: #cac4c4;
 
 
 }
@@ -161,4 +162,10 @@ body {
 .thumbnail {
   border: solid 2px #a1a1a1;
   border-radius: 15px;
+}
+
+.lead {
+
+  font-size: 120%;
+  color:#090909;
 }
