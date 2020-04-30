@@ -10,8 +10,16 @@ router.get('/project/:id', (req,res) => {
     const {id} = req.params;
     const data = projects[id];   
 
-    
-    res.render('project',{data});     
+    if (id <= projects.length) {
+
+        res.render('project',{data});    
+        
+    }else{
+
+        res.redirect('/');       
+
+    }
+      
     
 
 });

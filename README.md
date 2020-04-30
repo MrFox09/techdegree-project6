@@ -5,6 +5,13 @@ A portfolio web site made with node.js and express, a server side programm.
 The site will contain a modern landing page, an about page where I talk a little bit about myself and project page where all the projects are shown what I made.
 Set up a server,routes and middleware. 
 
+To Start the app:
+   + open the terminal on the root directory
+   + enter npm install 
+   + enter npm start 
+   + look at the console on which port the page is active and open it on the browser
+
+
 Style Changes:
 
 body background : #38546c
